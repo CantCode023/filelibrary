@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: filelibrary
+Version: 0.0.1
+Summary: filelibrary is a simple package that allows you to get and edit files or directories in a specified path.
+Home-page: https://github.com/CantCode023/filesystem
+Author: CantCode
+Author-email: cantcode023@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # How to use filelibrary
 
 1. Install filelibrary package
@@ -58,3 +72,4 @@ fileLibrary.writeFileAsJson("fileName.extension", {"data": "here"})
 ```
 
 # Congratulations! You've finished the documentation. Explore the package and create awesome projects!
+

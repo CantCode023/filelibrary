@@ -4,11 +4,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup_info = {
-    "name": "filesystem",
+    "name": "filelibrary",
     "version": "0.0.1",
     "author": "CantCode",
     "author_email": "cantcode023@gmail.com",
-    "description": "Filesystem is a simple package that allows you to get and edit files or directories in a specified path.",
+    "description": "filelibrary is a simple package that allows you to get and edit files or directories in a specified path.",
     "long_description": long_description,
     "long_description_content_type": "text/markdown",
     "url": "https://github.com/CantCode023/filesystem",
