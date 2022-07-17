@@ -10,7 +10,7 @@ try:
 except ImportError:
     from typing_extensions import Literal
 
-from .main import Money
+from .main import filelibrary
 
 class VersionInfo(NamedTuple):
     """

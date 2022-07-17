@@ -11,7 +11,7 @@ class filelibrary:
     def getFilesInPath(self):
         for file in os.listdir(self.path):
             if os.path.isfile(os.path.join(self.path, file)):
-                self.files.append(file)
+                self.files.append(file) 
 
     def getDirsInPath(self):
         for dir in os.listdir(self.path):
