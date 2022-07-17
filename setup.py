@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup_info = {
     "name": "filelibrary",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "CantCode",
     "author_email": "cantcode023@gmail.com",
     "description": "filelibrary is a simple package that allows you to get and edit files or directories in a specified path.",
